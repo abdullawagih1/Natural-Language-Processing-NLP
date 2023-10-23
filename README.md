@@ -7,7 +7,7 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 - [Tokenization](01-%20What%20is%20Tokenization.ipynb)
   - An introduction to the process of tokenization in NLP.
 
-- [Preprocessing](Preprocessing.ipynb)
+- [Preprocessing](02-%20Preprocessing.ipynb)
   - Learn about common text preprocessing techniques.
 
 - [Bag of Words](Bag_of_Words.ipynb)
