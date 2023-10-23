@@ -22,24 +22,6 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 - [Word Embedding Approaches](Word_Embedding_Approaches.ipynb)
   - Explore various word embedding techniques, including Word2Vec and GloVe.
 
-## Usage
-
-You can explore each notebook individually to learn about specific NLP topics. The notebooks contain explanations, code, and examples to help you understand the concepts.
-
-## License
-
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- [Your Name](https://github.com/your-github-profile)
-
-## Acknowledgments
-
-- These notebooks are based on various NLP resources and tutorials.
-- Special thanks to the NLP community for their valuable contributions.
-
 ## References
 
-- [NLP Resources 1](URL_1)
-- [NLP Resources 2](URL_2)
+- [NLP Resources 1](https://www.kaggle.com/abdallahwagih/code)
