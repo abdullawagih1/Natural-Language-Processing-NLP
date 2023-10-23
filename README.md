@@ -4,7 +4,7 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 
 ## Notebooks
 
-- [Tokenization]([Tokenization.ipynb](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/01-%20What%20is%20Tokenization.ipynb))
+- [Tokenization](01-%20What%20is%20Tokenization.ipynb)
   - An introduction to the process of tokenization in NLP.
 
 - [Preprocessing](Preprocessing.ipynb)
