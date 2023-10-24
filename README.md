@@ -19,7 +19,7 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 - [Bayes' Theorem in Text Classification](Bayes_Theorem_in_Text_Classification.ipynb)
   - Learn how Bayes' Theorem is used in text classification.
 
-- [Word Embedding Approaches](Word_Embedding_Approaches.ipynb)
+- [Word Embedding Approaches](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/04-Word%20Embedding%20approaches.ipynb)
   - Explore various word embedding techniques, including Word2Vec and GloVe.
 
 ## References
