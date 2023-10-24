@@ -10,7 +10,7 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 - [Preprocessing](02-%20Preprocessing.ipynb)
   - Learn about common text preprocessing techniques.
 
-- [Bag of Words](Bag_of_Words.ipynb)
+- [Bag of Words](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/03-%20Bag%20of%20Words%20(BOW).ipynb)
   - Understand the concept of Bag of Words in text representation.
 
 - [TF-IDF](TF-IDF.ipynb)
