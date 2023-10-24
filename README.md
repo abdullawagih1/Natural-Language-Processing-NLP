@@ -12,15 +12,15 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 
 - [Bag of Words](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/03-%20Bag%20of%20Words%20(BOW).ipynb)
   - Understand the concept of Bag of Words in text representation.
+  
+- [Word Embedding Approaches](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/04-Word%20Embedding%20approaches.ipynb)
+  - Explore various word embedding techniques, including Word2Vec and GloVe.
 
 - [TF-IDF](TF-IDF.ipynb)
   - Explore TF-IDF (Term Frequency-Inverse Document Frequency) as a text representation method.
 
 - [Bayes' Theorem in Text Classification](Bayes_Theorem_in_Text_Classification.ipynb)
   - Learn how Bayes' Theorem is used in text classification.
-
-- [Word Embedding Approaches](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/04-Word%20Embedding%20approaches.ipynb)
-  - Explore various word embedding techniques, including Word2Vec and GloVe.
 
 ## References
 
