@@ -16,7 +16,7 @@ A collection of Jupyter notebooks covering various Natural Language Processing (
 - [Word Embedding Approaches](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/04-Word%20Embedding%20approaches.ipynb)
   - Explore various word embedding techniques, including Word2Vec and GloVe.
 
-- [TF-IDF](TF-IDF.ipynb)
+- [TF-IDF](https://github.com/abdullawagih1/Natural-Language-Processing-NLP/blob/main/05-%20Word%20Embedding%20TF-IDF.ipynb)
   - Explore TF-IDF (Term Frequency-Inverse Document Frequency) as a text representation method.
 
 - [Bayes' Theorem in Text Classification](Bayes_Theorem_in_Text_Classification.ipynb)
